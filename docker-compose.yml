@@ -1,0 +1,29 @@
+version: '2'
+
+services:
+  app:
+    image: carcel/apache-php
+    environment:
+      PHP_IDE_CONFIG: 'serverName=pim-cli'
+      PHP_XDEBUG_ENABLED: 0
+      PHP_XDEBUG_IDE_KEY: PHPSTORM
+      XDEBUG_CONFIG: 'remote_host=10.254.254.254 remote_port=9009'
+      PHP_XDEBUG_REMOTE_HOST: '10.254.254.254'
+    ports:
+      - '6777:80'
+    user: docker
+    volumes:
+      - nanou-framework-application-sync:/home/docker/symfony:rw
+      - nanou-framework-composer_cache-sync:/home/docker/.composer:rw
+    working_dir: /home/docker/symfony
+    networks:
+      - akeneo
+
+networks:
+  akeneo: ~
+
+volumes:
+  nanou-framework-application-sync:
+    external: true
+  nanou-framework-composer_cache-sync:
+    external: true

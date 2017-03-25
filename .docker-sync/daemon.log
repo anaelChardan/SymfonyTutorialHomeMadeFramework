@@ -1,0 +1,442 @@
+          ok  Starting unison
+          ok  nanou-framework-application-sync container still running, restarting unison in container
+          ok  Synced /Users/anael/Developer/Own/Framework/
+     success  Unison server started
+          ok  Synced /Users/anael/Developer/Own/Framework/
+          ok  Starting unison
+Contacting server...
+Connected [//5b8db5bbca68//home/docker/symfony -> //anaels-mbp.home//Users/anael/Developer/Own/Framework]
+Looking for changes
+          ok  nanou-framework-composer_cache-sync container still running, restarting unison in container
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:50:24.36 on 25 Mar 2017
+[BGN] Updating file .docker-sync/daemon.log from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: The source file /Users/anael/Developer/Own/Framework/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.48.4 finished propagating changes at 20:50:24.36 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:50:24  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:50:26.37 on 25 Mar 2017
+[BGN] Updating file .docker-sync/daemon.log from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: The source file /Users/anael/Developer/Own/Framework/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.48.4 finished propagating changes at 20:50:26.38 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:50:26  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+          ok  Synced /Users/anael/Developer/Cross/.composer
+     success  Unison server started
+          ok  Synced /Users/anael/Developer/Cross/.composer
+Contacting server...
+Connected [//769e1d7c155e//home/docker/.composer -> //anaels-mbp.home//Users/anael/Developer/Cross/.composer]
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:50:31.37 on 25 Mar 2017
+[BGN] Updating file .docker-sync/daemon.log from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: The source file /Users/anael/Developer/Own/Framework/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.48.4 finished propagating changes at 20:50:31.37 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:50:31  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:50:41.37 on 25 Mar 2017
+[BGN] Updating file .docker-sync/daemon.log from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: The source file /Users/anael/Developer/Own/Framework/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.48.4 finished propagating changes at 20:50:41.38 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:50:41  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:51:01.38 on 25 Mar 2017
+[BGN] Updating file .docker-sync/daemon.log from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: The source file /Users/anael/Developer/Own/Framework/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.48.4 finished propagating changes at 20:51:01.38 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:51:01  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:51:18.27 on 25 Mar 2017
+[BGN] Updating file .docker-sync/daemon.log from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+[BGN] Updating file docker-compose.yml from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: The source file /Users/anael/Developer/Own/Framework/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+[END] Updating file docker-compose.yml
+UNISON 2.48.4 finished propagating changes at 20:51:18.28 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:51:18  (1 item transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:51:29.07 on 25 Mar 2017
+[BGN] Updating file .docker-sync/daemon.log from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+[BGN] Updating file docker-compose.yml from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: The source file /Users/anael/Developer/Own/Framework/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+[END] Updating file docker-compose.yml
+UNISON 2.48.4 finished propagating changes at 20:51:29.08 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:51:29  (1 item transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:51:41.38 on 25 Mar 2017
+[BGN] Updating file .docker-sync/daemon.log from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: The source file /Users/anael/Developer/Own/Framework/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.48.4 finished propagating changes at 20:51:41.38 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:51:41  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:51:47.75 on 25 Mar 2017
+[BGN] Updating file .idea/workspace.xml from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+[END] Updating file .idea/workspace.xml
+UNISON 2.48.4 finished propagating changes at 20:51:47.76 on 25 Mar 2017
+Saving synchronizer state
+Synchronization complete at 20:51:47  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:53:01.39 on 25 Mar 2017
+[BGN] Updating file .docker-sync/daemon.log from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: The source file /Users/anael/Developer/Own/Framework/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.48.4 finished propagating changes at 20:53:01.40 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:53:01  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:53:18.03 on 25 Mar 2017
+[BGN] Updating file .idea/workspace.xml from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+[END] Updating file .idea/workspace.xml
+UNISON 2.48.4 finished propagating changes at 20:53:18.03 on 25 Mar 2017
+Saving synchronizer state
+Synchronization complete at 20:53:18  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:53:53.75 on 25 Mar 2017
+[BGN] Updating file .idea/workspace.xml from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+[BGN] Updating file web/app.php from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+[END] Updating file .idea/workspace.xml
+[END] Updating file web/app.php
+UNISON 2.48.4 finished propagating changes at 20:53:53.75 on 25 Mar 2017
+Saving synchronizer state
+Synchronization complete at 20:53:53  (2 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:54:10.24 on 25 Mar 2017
+[BGN] Updating file .idea/workspace.xml from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+[END] Updating file .idea/workspace.xml
+UNISON 2.48.4 finished propagating changes at 20:54:10.24 on 25 Mar 2017
+Saving synchronizer state
+Synchronization complete at 20:54:10  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:54:34.08 on 25 Mar 2017
+[BGN] Updating file .idea/workspace.xml from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+[BGN] Updating file web/app.php from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+[END] Updating file .idea/workspace.xml
+[END] Updating file web/app.php
+UNISON 2.48.4 finished propagating changes at 20:54:34.09 on 25 Mar 2017
+Saving synchronizer state
+Synchronization complete at 20:54:34  (2 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:54:48.02 on 25 Mar 2017
+[BGN] Updating file .idea/workspace.xml from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+[END] Updating file .idea/workspace.xml
+UNISON 2.48.4 finished propagating changes at 20:54:48.02 on 25 Mar 2017
+Saving synchronizer state
+Synchronization complete at 20:54:48  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:55:41.39 on 25 Mar 2017
+[BGN] Updating file .docker-sync/daemon.log from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: The source file /Users/anael/Developer/Own/Framework/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.48.4 finished propagating changes at 20:55:41.40 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:55:41  (0 items transferred, 0 skipped, 1 failed)
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:56:41.36 on 25 Mar 2017
+[BGN] Updating file .docker-sync/daemon.log from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+[BGN] Copying .git from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: Error in creating directory:
+Permission denied [mkdir(/home/docker/symfony/.unison..git.957140e9b25899b05dda6c84a1ca6d63.unison.tmp)]
+Failed: The source file /Users/anael/Developer/Own/Framework/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+UNISON 2.48.4 finished propagating changes at 20:56:41.36 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:56:41  (0 items transferred, 0 skipped, 2 failed)
+  failed: .git
+  failed: .docker-sync/daemon.log
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:56:42.37 on 25 Mar 2017
+[BGN] Copying .git from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: Error in creating directory:
+Permission denied [mkdir(/home/docker/symfony/.unison..git.957140e9b25899b05dda6c84a1ca6d63.unison.tmp)]
+UNISON 2.48.4 finished propagating changes at 20:56:42.37 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:56:42  (0 items transferred, 0 skipped, 1 failed)
+  failed: .git
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:56:44.38 on 25 Mar 2017
+[BGN] Copying .git from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: Error in creating directory:
+Permission denied [mkdir(/home/docker/symfony/.unison..git.957140e9b25899b05dda6c84a1ca6d63.unison.tmp)]
+UNISON 2.48.4 finished propagating changes at 20:56:44.39 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:56:44  (0 items transferred, 0 skipped, 1 failed)
+  failed: .git
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:56:46.75 on 25 Mar 2017
+[BGN] Copying .git from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: Error in creating directory:
+Permission denied [mkdir(/home/docker/symfony/.unison..git.957140e9b25899b05dda6c84a1ca6d63.unison.tmp)]
+UNISON 2.48.4 finished propagating changes at 20:56:46.75 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:56:46  (0 items transferred, 0 skipped, 1 failed)
+  failed: .git
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:56:48.76 on 25 Mar 2017
+[BGN] Copying .git from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: Error in creating directory:
+Permission denied [mkdir(/home/docker/symfony/.unison..git.957140e9b25899b05dda6c84a1ca6d63.unison.tmp)]
+UNISON 2.48.4 finished propagating changes at 20:56:48.76 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:56:48  (0 items transferred, 0 skipped, 1 failed)
+  failed: .git
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:56:56.68 on 25 Mar 2017
+[BGN] Copying .git from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: Error in creating directory:
+Permission denied [mkdir(/home/docker/symfony/.unison..git.957140e9b25899b05dda6c84a1ca6d63.unison.tmp)]
+UNISON 2.48.4 finished propagating changes at 20:56:56.68 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:56:56  (0 items transferred, 0 skipped, 1 failed)
+  failed: .git
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:56:57.80 on 25 Mar 2017
+[BGN] Copying .git from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: Error in creating directory:
+Permission denied [mkdir(/home/docker/symfony/.unison..git.957140e9b25899b05dda6c84a1ca6d63.unison.tmp)]
+UNISON 2.48.4 finished propagating changes at 20:56:57.80 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:56:57  (0 items transferred, 0 skipped, 1 failed)
+  failed: .git
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:57:03.40 on 25 Mar 2017
+[BGN] Copying .git from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: Error in creating directory:
+Permission denied [mkdir(/home/docker/symfony/.unison..git.957140e9b25899b05dda6c84a1ca6d63.unison.tmp)]
+UNISON 2.48.4 finished propagating changes at 20:57:03.40 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:57:03  (0 items transferred, 0 skipped, 1 failed)
+  failed: .git
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:57:06.11 on 25 Mar 2017
+[BGN] Copying .git from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: Error in creating directory:
+Permission denied [mkdir(/home/docker/symfony/.unison..git.957140e9b25899b05dda6c84a1ca6d63.unison.tmp)]
+UNISON 2.48.4 finished propagating changes at 20:57:06.11 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:57:06  (0 items transferred, 0 skipped, 1 failed)
+  failed: .git
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:57:08.12 on 25 Mar 2017
+[BGN] Updating file .docker-sync/daemon.log from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+[BGN] Copying .git from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+[BGN] Copying README.md from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: Error in creating directory:
+Permission denied [mkdir(/home/docker/symfony/.unison..git.957140e9b25899b05dda6c84a1ca6d63.unison.tmp)]
+Failed: The source file /Users/anael/Developer/Own/Framework/.docker-sync/daemon.log
+has been modified during synchronization.  Transfer aborted.
+Failed: Error in processing a transfer instruction:
+Permission denied [open(/home/docker/symfony/.unison.README.md.957140e9b25899b05dda6c84a1ca6d63.unison.tmp)]
+UNISON 2.48.4 finished propagating changes at 20:57:08.18 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:57:08  (0 items transferred, 0 skipped, 3 failed)
+  failed: .git
+  failed: .docker-sync/daemon.log
+  failed: README.md
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:57:09.19 on 25 Mar 2017
+[BGN] Copying .git from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+[BGN] Copying README.md from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: Error in creating directory:
+Permission denied [mkdir(/home/docker/symfony/.unison..git.957140e9b25899b05dda6c84a1ca6d63.unison.tmp)]
+Failed: Error in processing a transfer instruction:
+Permission denied [open(/home/docker/symfony/.unison.README.md.957140e9b25899b05dda6c84a1ca6d63.unison.tmp)]
+UNISON 2.48.4 finished propagating changes at 20:57:09.24 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:57:09  (0 items transferred, 0 skipped, 2 failed)
+  failed: .git
+  failed: README.md
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:57:10.42 on 25 Mar 2017
+[BGN] Copying .git from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: Error in creating directory:
+Permission denied [mkdir(/home/docker/symfony/.unison..git.957140e9b25899b05dda6c84a1ca6d63.unison.tmp)]
+UNISON 2.48.4 finished propagating changes at 20:57:10.42 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:57:10  (0 items transferred, 0 skipped, 1 failed)
+  failed: .git
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.48.4 started propagating changes at 20:57:11.44 on 25 Mar 2017
+[BGN] Copying .git from /Users/anael/Developer/Own/Framework to //5b8db5bbca68//home/docker/symfony
+Failed: Error in creating directory:
+Permission denied [mkdir(/home/docker/symfony/.unison..git.957140e9b25899b05dda6c84a1ca6d63.unison.tmp)]
+UNISON 2.48.4 finished propagating changes at 20:57:11.44 on 25 Mar 2017
+Saving synchronizer state
+Synchronization incomplete at 20:57:11  (0 items transferred, 0 skipped, 1 failed)
+  failed: .git

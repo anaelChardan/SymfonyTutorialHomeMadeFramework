@@ -1,0 +1,16 @@
+version: "2"
+
+options:
+    compose-file-path: './docker-compose.yml'
+syncs:
+    nanou-framework-application-sync:
+        src: './'
+        dest: '/home/docker/symfony'
+        sync_strategy: 'unison'
+        sync_args: '-prefer newer -copyonconflict'
+        sync_userid: 1000
+    nanou-framework-composer_cache-sync:
+        src: '/Users/anael/Developer/Cross/.composer'
+        dest: '/home/docker/.composer'
+        sync_strategy: 'unison'
+        sync_userid: 1000
